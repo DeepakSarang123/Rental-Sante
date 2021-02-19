@@ -1,0 +1,5 @@
+ git push --set-upstream origin master
+
+change folder to inside folder which gets cloned and then
+git fetch
+git rebase origin/master
